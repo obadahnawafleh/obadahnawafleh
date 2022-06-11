@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Obadah Nawafleh
+- 👀 I’m interested in embedded systems
+- 🌱 I’m currently do embedded systems works
+- 📫 you can reach me => obadah.nawafleh@gmail.com
